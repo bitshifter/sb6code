@@ -1,3 +1,11 @@
+*.opensdf
+*.sdf
 *.swp
+*.user
+/.vs/
 /bin/*
-/lib/libsb6.a
+/build/vs2013/*Debug/
+/extern/
+/lib/
+/src/sb6/Debug/
+/src/sb6/Release/
